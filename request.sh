@@ -1,4 +1,4 @@
-curl --location 'http://localhost:8080/business-central/rest/server/containers/instances/kang.kangcourt:traffic-violation:1.0.0-SNAPSHOT' \
+curl --location 'http://localhost:8080/business-central/rest/controller/management/servers/default-kieserver/containers/traffic-violation:1.0.0-SNAPSHOT' \
 --header 'Content-Type: application/json' \
 --header 'Accept: application/json' \
 --header 'X-KIE-ContentType: JSON' \
