@@ -11,7 +11,6 @@ https://docs.drools.org/8.44.0.Final/drools-docs/drools/getting-started/index.ht
 
 ##  setup with drools
 
-docker pull jboss/business-central-workbench-showcase
 
 docker rm -f jbpm-workbench
 
